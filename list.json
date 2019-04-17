@@ -1,17 +1,17 @@
 [
     {
         "title":"未知轻食",
-        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/unknow.png",
+        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/unknow.jpg",
         "price":"￥100起送|配送费￥100"
     },
     {
         "title":"味千拉面",
-        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/Noodles.png",
+        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/Noodles.jpg",
         "price":"￥250起送|配送费￥250"
     },
     {
         "title":"陈记麻辣烫",
-        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/Spicy.png",
+        "imgurl":"https://lonelykun.github.io/copy_baidu_map/image/Spicy.jpg",
         "price":"￥500起送|配送费￥500"
     }
 ]
